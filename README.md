@@ -1,4 +1,4 @@
-Here I upload some simple predictive models from scratch (Perceptron and ADAline)
+Here I uploaded some simple predictive models from scratch (Perceptron and ADAline)
 
 I implemented these models by creating specific classes.
 
